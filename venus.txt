@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-This plaet is blue! 
+This planet is blue! 
 Maybe is has water?!
-=======
-This planet is blue!
-Maybe it has water?
->>>>>>> a8bdec30227e6f48517f0136b55f9b7304c961b4
