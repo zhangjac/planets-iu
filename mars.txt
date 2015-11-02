@@ -1,6 +1,10 @@
 Cold and dessicated, but everything is my favorite color.
 The two moons might be a problem for Wolfman. 
 But the mummy will like the lack of water
-We'll need to bring water
+We'll need to bring h2o for us to drink
 There seems to be a rover here.
+<<<<<<< HEAD
+Marvin the Martian is here 
+=======
 Even mummies need water.
+>>>>>>> b8fa650ede1edccb3080ef7ea0aa7d2058a8adc6
